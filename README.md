@@ -1,1 +1,2 @@
 # The-Last-Checkpoint-
+First of all, I’m truly grateful to have had your support over the past six months — it’s been an incredible opportunity. I can confidently say that I’m about 60% ready to become a web developer. The courses were great — quite long, but rich with valuable information. The practical exercises were helpful, but I feel I still need about two more months to practice further, build more projects, and strengthen my skills. Some problem-solving exercises and exposure to design tools would also be very beneficial for me during this time
